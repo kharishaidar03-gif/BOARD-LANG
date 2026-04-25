@@ -1,0 +1,6 @@
+# Tes Board-lang V1
+BUAT papan [8x8]
+BUAT pemain {Admin, Tamu}
+tulis Memulai kocokan dadu pertama...
+acak dadu
+tulis Game Board-lang berjalan lancar!
